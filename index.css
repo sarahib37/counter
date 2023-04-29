@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background: url("sweat.jpeg");
+    background-size: cover;
+}
+
+#counter{
+    font-size: xxx-large;
+    margin: 0px;
+    margin-bottom: 15px;
+}
+
+h1{
+    color: darkkhaki;
+    text-shadow: 2px 2px black;
+}
+
+button{
+    width: 200px;
+    padding: 10px 7px;
+    border-radius: 15px;
+    color: white;
+}
+
+#increment-el{
+    background: black;
+    border: 1px solid darkkhaki;
+}
+
+#save-el{
+    background: black;
+    border: 1px solid darkkhaki;
+}
+
+#entries{
+    color: darkkhaki;
+    text-shadow: 2px 2px 4px black;
+}
